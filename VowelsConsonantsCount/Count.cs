@@ -10,7 +10,7 @@ string? userInput = Console.ReadLine();
 if(userInput != null)
 {
     // remove the duplicate characters
-    IEnumerable<char> lettersArr = userInput.ToCharArray().Distinct();
+    IEnumerable<char> lettersArr = userInput.ToLower().ToCharArray().Distinct();
     for (int index = 0; index < lettersArr.Count(); index++)
     {
         // match the character with vowel array, if match is successful, increment the count
