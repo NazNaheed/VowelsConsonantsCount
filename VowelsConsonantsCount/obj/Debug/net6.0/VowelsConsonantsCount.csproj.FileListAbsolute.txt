@@ -1,0 +1,15 @@
+C:\Users\naheenaz\source\repos\VowelsConsonantsCount\VowelsConsonantsCount\bin\Debug\net6.0\VowelsConsonantsCount.exe
+C:\Users\naheenaz\source\repos\VowelsConsonantsCount\VowelsConsonantsCount\bin\Debug\net6.0\VowelsConsonantsCount.deps.json
+C:\Users\naheenaz\source\repos\VowelsConsonantsCount\VowelsConsonantsCount\bin\Debug\net6.0\VowelsConsonantsCount.runtimeconfig.json
+C:\Users\naheenaz\source\repos\VowelsConsonantsCount\VowelsConsonantsCount\bin\Debug\net6.0\VowelsConsonantsCount.dll
+C:\Users\naheenaz\source\repos\VowelsConsonantsCount\VowelsConsonantsCount\bin\Debug\net6.0\VowelsConsonantsCount.pdb
+C:\Users\naheenaz\source\repos\VowelsConsonantsCount\VowelsConsonantsCount\obj\Debug\net6.0\VowelsConsonantsCount.csproj.AssemblyReference.cache
+C:\Users\naheenaz\source\repos\VowelsConsonantsCount\VowelsConsonantsCount\obj\Debug\net6.0\VowelsConsonantsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naheenaz\source\repos\VowelsConsonantsCount\VowelsConsonantsCount\obj\Debug\net6.0\VowelsConsonantsCount.AssemblyInfoInputs.cache
+C:\Users\naheenaz\source\repos\VowelsConsonantsCount\VowelsConsonantsCount\obj\Debug\net6.0\VowelsConsonantsCount.AssemblyInfo.cs
+C:\Users\naheenaz\source\repos\VowelsConsonantsCount\VowelsConsonantsCount\obj\Debug\net6.0\VowelsConsonantsCount.csproj.CoreCompileInputs.cache
+C:\Users\naheenaz\source\repos\VowelsConsonantsCount\VowelsConsonantsCount\obj\Debug\net6.0\VowelsConsonantsCount.dll
+C:\Users\naheenaz\source\repos\VowelsConsonantsCount\VowelsConsonantsCount\obj\Debug\net6.0\refint\VowelsConsonantsCount.dll
+C:\Users\naheenaz\source\repos\VowelsConsonantsCount\VowelsConsonantsCount\obj\Debug\net6.0\VowelsConsonantsCount.pdb
+C:\Users\naheenaz\source\repos\VowelsConsonantsCount\VowelsConsonantsCount\obj\Debug\net6.0\VowelsConsonantsCount.genruntimeconfig.cache
+C:\Users\naheenaz\source\repos\VowelsConsonantsCount\VowelsConsonantsCount\obj\Debug\net6.0\ref\VowelsConsonantsCount.dll
